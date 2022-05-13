@@ -10,7 +10,9 @@ every third character from the posted string.
 
 ## How to run this project
 
-Navigate to the project root directory and run the following line:
+Navigate to the project root directory and run the following lines:
+
+`npm install`
 
 `node app.js`
 
